@@ -1,0 +1,72 @@
+{
+  "good": [
+    {
+      "id": "tp-g-1",
+      "text": "A crew filming a live episode of a beloved childrens TV show"
+    },
+    {
+      "id": "tp-g-2",
+      "text": "A bunch of nuns having fun"
+    },
+    {
+      "id": "tp-g-3",
+      "text": "A happy 3-legged dog"
+    },
+    {
+      "id": "tp-g-4",
+      "text": "A stranded mermaid calling for help"
+    },
+    {
+      "id": "tp-g-5",
+      "text": "A funeral procession"
+    },
+    {
+      "id": "tp-g-6",
+      "text": "A little girl bringing treats to her grandmother"
+    }
+  ],
+  "bad": [
+    {
+      "id": "tp-b-1",
+      "text": "A corrupt pharmaceutical CEO"
+    },
+    {
+      "id": "tp-b-2",
+      "text": "Undead Osama Bin Laden"
+    },
+    {
+      "id": "tp-b-3",
+      "text": "An open gateway to hell that will close if hit by a trolley"
+    },
+    {
+      "id": "tp-b-4",
+      "text": "A camel that will literally not stop spitting on you"
+    },
+    {
+      "id": "tp-b-5",
+      "text": "Two violent bank robbers"
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "tp-m-1",
+      "text": "If they die, you'll have to speak at their funeral in front of at least 100 people"
+    },
+    {
+      "id": "tp-m-2",
+      "text": "Literally nobody will miss them"
+    },
+    {
+      "id": "tp-m-3",
+      "text": "If they die, you'll have to clean up the mess"
+    },
+    {
+      "id": "tp-m-4",
+      "text": "Will be reincarnated as the world's most obnoxious social media influencer"
+    },
+    {
+      "id": "tp-m-5",
+      "text": "Will be reincarnated as the world's cutest dog"
+    }
+  ]
+}
